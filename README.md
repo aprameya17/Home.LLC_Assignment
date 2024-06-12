@@ -14,8 +14,8 @@ Model Fitting
 Error Analysis
 
 Data Considered: 
-Date < br / > 
-Employees
+Date   < br / > 
+Employees  
 GDP - Gross Domestic Product
 Monthly Supply
 Population
