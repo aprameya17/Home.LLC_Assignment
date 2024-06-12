@@ -6,7 +6,7 @@ Data Source: https://fred.stlouisfed.org
 
 Pipeline : \
 Exploratory Data Analysis   \
-Feature Scaling       \ 
+Feature Scaling   \ 
 Train Test Split      \
 Model Comparison \
 Hyper Parameter Selection \
@@ -16,12 +16,12 @@ Error Analysis\
 Data Considered: \
 Date   \
 Employees  
-GDP - Gross Domestic Product
-Monthly Supply
-Population
-Mortgage Rate
-Delinquency Rate
-CPI - Consumer Price Index
-New Permits
-Total Construction Spending
+GDP - Gross Domestic Product \
+Monthly Supply \
+Population \
+Mortgage Rate \
+Delinquency Rate \
+CPI - Consumer Price Index \
+New Permits \
+Total Construction Spending \
 Target House Price
