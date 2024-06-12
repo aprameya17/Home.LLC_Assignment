@@ -11,7 +11,7 @@ Train Test Split  \
 Model Comparison \
 Hyper Parameter Selection \
 Model Fitting \
-Error Analysis \
+Error Analysis 
 
 **Data Considered**: \
 Date   \
