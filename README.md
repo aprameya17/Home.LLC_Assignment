@@ -6,8 +6,8 @@ Data Source: https://fred.stlouisfed.org
 
 Pipeline : \
 Exploratory Data Analysis   \
-Feature Scaling \ 
-Train Test Split \
+Feature Scaling  \
+Train Test Split  \
 Model Comparison \
 Hyper Parameter Selection \
 Model Fitting \
