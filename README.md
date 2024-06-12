@@ -4,17 +4,17 @@ Predicting US house prices by determining factors that'll affect it, scraping an
 
 Data Source: https://fred.stlouisfed.org
 
-Pipeline :
+Pipeline : \
 Exploratory Data Analysis   \
 Feature Scaling       \ 
 Train Test Split      \
-Model Comparison
-Hyper Parameter Selection
-Model Fitting
-Error Analysis
+Model Comparison \
+Hyper Parameter Selection \
+Model Fitting \
+Error Analysis\
 
-Data Considered: 
-Date   < br / > 
+Data Considered: \
+Date   \
 Employees  
 GDP - Gross Domestic Product
 Monthly Supply
